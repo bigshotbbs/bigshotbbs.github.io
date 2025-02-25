@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55fe6ee9.css",
+    "main.js": "/static/js/main.c55ca632.js",
+    "static/media/haxorville.woff": "/static/media/haxorville.cf5bb4a1b7c9dca5bf4e.woff",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.55fe6ee9.css",
+    "static/js/main.c55ca632.js"
+  ]
+}
