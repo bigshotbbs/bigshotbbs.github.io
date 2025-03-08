@@ -1,6 +1,8 @@
 # ![Big Shot BBS logo](favicon.png) Big Shot Bounty Board System
 
-Big Shot is an unofficial, fan-made random bounty generator for **+WANTED! REWARD: CC 10,000** wargame. [Try it out!](https://bigshotbbs.github.io/)
+Big Shot is an unofficial, fan-made random bounty generator for **+WANTED! REWARD: CC 10,000** wargame.
+
+[Try it out!](https://bigshotbbs.github.io/)
 
 All random tables, except for the name generator, were taken verbatim from the **W!R:CC10K** rulebook. No extra effort was made to validate or create cohesive characters. Embrace the jank.
 
@@ -10,4 +12,4 @@ All bounties are generated and stored in your browser, and never leave your comp
 
 The font used in headers is [haxorville](https://www.abhirag.com/haxorville/) by [abhirag](https://www.abhirag.com/).
 
-Latest update: 2025-03-07 (1.0.5.250307235146)
+Latest update: 2025-03-08 (1.0.6.250308102721)
