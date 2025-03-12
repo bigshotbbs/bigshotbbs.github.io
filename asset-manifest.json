@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.df193d16.css",
-    "main.js": "/static/js/main.6d433256.js",
+    "main.css": "/static/css/main.a208669d.css",
+    "main.js": "/static/js/main.03dd8d0c.js",
+    "static/media/menu-planet.png": "/static/media/menu-planet.8a47a506d4c8bd71b410.png",
     "static/media/haxorville.woff": "/static/media/haxorville.cf5bb4a1b7c9dca5bf4e.woff",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.df193d16.css",
-    "static/js/main.6d433256.js"
+    "static/css/main.a208669d.css",
+    "static/js/main.03dd8d0c.js"
   ]
 }

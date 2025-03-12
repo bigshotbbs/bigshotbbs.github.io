@@ -1,0 +1,118 @@
+@font-face {
+    font-family: 'silkscreen';
+    src: url('/Silkscreen-Regular.woff'), format('woff');
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+    background-image: none;
+    text-transform: uppercase;
+}
+
+h1, h2, h3, h4, .header, button, a.button, a.button:hover, a.button:active {
+    font-family: 'silkscreen', 'Courier New', Courier, monospace;
+}
+
+hr {
+    background-color: #fff;
+}
+
+.header {
+    background-color: #fff;
+    color: #000;
+}
+
+.menu {
+    background-color: #fff;
+    color: #000;
+    border-color: #fff;
+}
+
+.menu .active, .menu .active a:visited {
+    background-color: #000;
+    color: #fff;
+}
+
+.menu a, .menu a:visited, .menu .tooltippable {
+    color: #000;
+    background-color: #fff;
+    text-decoration: none;
+}
+
+.noprint { display: none; }
+
+button, a.button, a.button:active, a.button:visited, a.button:hover {
+    background-color: #fff;
+    color: #000;
+    text-transform: uppercase;
+}
+
+a, a:active, a:visited {
+    background-color: #000;
+    color: #fff;
+    text-decoration: underline;
+}
+
+.grudge { color: #fff; }
+
+.tiles-wrapper .tile a, .tiles-wrapper .tile a:visited, .tiles-wrapper .tile a:active { color: #fff;  }
+
+.tooltippable {
+    background-color: #000;
+    color: #fff;
+    text-decoration: underline;  
+}
+
+img, .menu .active img, .menu .active a img, .menu a:active img  {
+    filter: grayscale(1);
+}
+
+.card2, .card-bottom, .card-top, .card-top-border, .tiles-wrapper .tile, .tooltip { background-color: #000; color: #fff; border-color: #fff; }
+
+button[disabled] { background-color: #888;}
+
+.tile .header {
+    font-size: 9pt;
+}
+
+
+
+.react-select__control {
+    font-family: 'silkscreen', 'Courier New', Courier, monospace;
+    background: none !important;
+    border: 2px solid #fff !important;
+  }
+  
+  .react-select__single-value {
+    color: #fff !important;
+  }
+  
+  .react-select__indicator-separator {
+    background-color: #fff !important;
+  }
+  
+  .react-select__indicator {
+    color: #fff !important;
+  }
+  
+  .react-select__menu {
+    background-color: #000 !important;
+    border: 2px solid #fff !important;
+    border-top: 0 !important;
+    margin-top: 0 !important;
+  }
+
+  .react-select__option {
+    font-family: 'silkscreen', 'Courier New', Courier, monospace;
+  }
+  
+  .react-select__option--is-focused, .react-select__option--is-selected.react-select__option--is-focused {
+    background-color: #fff !important;
+    color: #000 !important;
+  }
+  
+  .react-select__option--is-selected {
+    color: #fff !important;
+    background-color: #000 !important;
+  }
