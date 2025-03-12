@@ -6,7 +6,9 @@
 body {
     background-color: #000;
     color: #fff;
-    background-image: none;
+    background-image: url('/babe.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom right !important;
     text-transform: uppercase;
 }
 
@@ -68,7 +70,7 @@ img, .menu .active img, .menu .active a img, .menu a:active img  {
     filter: grayscale(1);
 }
 
-.card2, .card-bottom, .card-top, .card-top-border, .tiles-wrapper .tile, .tooltip { background-color: #000; color: #fff; border-color: #fff; }
+.card2, .card-bottom, .card-top, .card-top-border, .tiles-wrapper .tile, .tooltip { background-color: #000000cc; color: #fff; border-color: #fff; }
 
 button[disabled] { background-color: #888;}
 
