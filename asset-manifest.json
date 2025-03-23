@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c864f5a.css",
-    "main.js": "/static/js/main.0072aa58.js",
+    "main.css": "/static/css/main.a943bcd5.css",
+    "main.js": "/static/js/main.8d41bab6.js",
     "static/media/menu-planet.png": "/static/media/menu-planet.8a47a506d4c8bd71b410.png",
     "static/media/mugshot-planet2.png": "/static/media/mugshot-planet2.5c72239542b8815d6eb0.png",
     "static/media/mugshot-planet8.png": "/static/media/mugshot-planet8.5f557791c058a9a91e6d.png",
@@ -11,7 +11,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.1c864f5a.css",
-    "static/js/main.0072aa58.js"
+    "static/css/main.a943bcd5.css",
+    "static/js/main.8d41bab6.js"
   ]
 }

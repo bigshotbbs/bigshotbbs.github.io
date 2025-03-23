@@ -60,8 +60,8 @@ a, a:active, a:visited {
 
 .tiles-wrapper .tile a, .tiles-wrapper .tile a:visited, .tiles-wrapper .tile a:active { color: #fff;  }
 
-.tooltippable {
-    background-color: #000;
+.tooltippable, .clickable {
+    /* /background-color: #000; */
     color: #fff;
     text-decoration: underline;  
 }
@@ -120,12 +120,28 @@ button[disabled] { background-color: #888;}
   }
 
 
-input[type="checkbox"] {
+input[type="checkbox"], .number-input {
   background-color: #000;
   color: #fff;
   border-color: #fff;
+  font-family: 'silkscreen', 'Courier New', Courier, monospace;
+}
+
+.number-input button {
+  background-color: #000;
+  color: #fff;
 }
 
 input[type="checkbox"]::before {
   box-shadow: inset 1em 1em #fff;
+}
+
+
+.number-input .value-container {
+  border-color: #fff;
+}
+
+.expandable-inner {
+  background-color: #202020;
+  border-left: solid 1px #fff;
 }
