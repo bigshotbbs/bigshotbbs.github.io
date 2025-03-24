@@ -12,4 +12,4 @@ All bounties are generated and stored in your browser, and never leave your comp
 
 The font used in headers is [haxorville](https://www.abhirag.com/haxorville/) by [abhirag](https://www.abhirag.com/).
 
-Latest update: 2025-03-24 (1.0.12.250324004451)
+Latest update: 2025-03-24 (1.0.13.250324235912)
