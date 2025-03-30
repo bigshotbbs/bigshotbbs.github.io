@@ -8,8 +8,10 @@ All random tables, except for the name generator, were taken verbatim from the *
 
 All bounties are generated and stored in your browser, and never leave your computer. This is intentional and, while good in principle (privacy), it also means it's impossible to share a link to a specific bounty with someone else. Until proper sharing is implemented, please use screenshots or print bounties to pdf.
 
-[**WANTED! REWARD: CC 10,000**](https://poodong.boards.net/) was created by&nbsp; [Tanner Simpson&nbsp;(Simpsominiatures)](https://linktr.ee/TannerSimpson), [Erick&nbsp;(goobinsgitz)](https://www.instagram.com/goobinsgitz/), and [Gabe&nbsp;(nile_nellie)](https://www.instagram.com/nile_nellie/). I am not affiliated with them in any way. Pls don't sue.
+[**WANTED! REWARD: CC 10,000**](https://poodong.boards.net/) was created by&nbsp; [Tanner Simpson&nbsp;(Simpsominiatures)](https://linktr.ee/TannerSimpson), [Erick&nbsp;(goobinsgitz)](https://www.instagram.com/goobinsgitz/), and [Gabe&nbsp;(nile_nellie)](https://www.instagram.com/nile_nellie/). I am not affiliated with them in any way.
 
 The font used in headers is [haxorville](https://www.abhirag.com/haxorville/) by [abhirag](https://www.abhirag.com/).
+The font used in the 'mono' theme is [Silkscreen](https://kottke.org/plus/type/silkscreen/) by [Jason Kottke](https://kottke.org/).
 
-Latest update: 2025-03-24 (1.0.13.250324235912)
+
+Latest update: 2025-03-30 (1.0.14.250330220038)

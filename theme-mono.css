@@ -145,3 +145,7 @@ input[type="checkbox"]::before {
   background-color: #202020;
   border-left: solid 1px #fff;
 }
+
+.payment-table tbody, .payment-table .total-payment-tr td, .payment-table .net-payment-tr td {
+  border-color: #fff;
+}
