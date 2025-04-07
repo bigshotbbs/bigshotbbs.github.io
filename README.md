@@ -14,4 +14,4 @@ The font used in headers is [haxorville](https://www.abhirag.com/haxorville/) by
 The font used in the 'mono' theme is [Silkscreen](https://kottke.org/plus/type/silkscreen/) by [Jason Kottke](https://kottke.org/).
 
 
-Latest update: 2025-03-30 (1.0.14.250330220038)
+Latest update: 2025-04-07 (1.0.15.250407153752)

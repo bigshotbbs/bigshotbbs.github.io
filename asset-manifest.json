@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3724eac3.css",
-    "main.js": "/static/js/main.78afc144.js",
+    "main.js": "/static/js/main.05459709.js",
     "static/media/cockpit.png": "/static/media/cockpit.3c6635f73524c7cc9c46.png",
     "static/media/menu-planet.png": "/static/media/menu-planet.8a47a506d4c8bd71b410.png",
     "static/media/mugshot-planet2.png": "/static/media/mugshot-planet2.5c72239542b8815d6eb0.png",
@@ -13,6 +13,6 @@
   },
   "entrypoints": [
     "static/css/main.3724eac3.css",
-    "static/js/main.78afc144.js"
+    "static/js/main.05459709.js"
   ]
 }
